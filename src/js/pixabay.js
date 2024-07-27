@@ -1,4 +1,4 @@
-const KEY = '...';
+const KEY = '45133531-217ba4dc206fd3adb926b5b11';
 const url = 'https://pixabay.com/api/';
 
 export function fetchImages(query) {
